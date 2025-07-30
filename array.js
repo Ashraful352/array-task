@@ -72,6 +72,7 @@ let names = ['shofik', 'jamal', 'solimoddin']
 let result = names.join(',')
 console.log(result)
 
+// combine (merge) two or more arrays into one new array.
 
 let boys = ['jaml', 'kamal', 'kurim'];
 let girls = ['sofia', 'robia', 'akhimoni'];
